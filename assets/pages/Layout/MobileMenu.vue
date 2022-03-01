@@ -1,0 +1,34 @@
+<template>
+  <ul class="nav nav-mobile-menu">
+    <!-- <li>
+     
+    </li>
+    <li>
+      <drop-down>
+        <a slot="title" class="dropdown-toggle" data-toggle="dropdown">
+          <i class="material-icons">notifications</i>
+          <span class="notification">3</span>
+          <p>Notifications</p>
+        </a>
+        <ul class="dropdown-menu dropdown-menu-right">
+          <li><a href="#">You have 5 new tasks</a></li>
+          <li><a href="#">Another Notification</a></li>
+          <li><a href="#">Another One</a></li>
+        </ul>
+      </drop-down>
+    </li>
+    <li>
+      <a href="#" data-toggle="dropdown" class="dropdown-toggle"
+        ><i class="material-icons">person</i>
+        <p>Profile</p></a
+      >
+    </li> -->
+  </ul>
+</template>
+<script>
+export default {
+  data() {
+    return {};
+  }
+};
+</script>
